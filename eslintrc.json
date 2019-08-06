@@ -187,7 +187,7 @@
     }],
     "symbol-description": "error",
     "template-curly-spacing": ["error", "never"],
-    "template-tag-spacing": ["error", "never"],
+    "template-tag-spacing": ["error", "always"],
     "unicode-bom": ["error", "never"],
     "use-isnan": "error",
     "valid-typeof": ["error", { "requireStringLiterals": true }],
